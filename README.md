@@ -1,5 +1,4 @@
-readme_content = """\
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVxeWZsMTc4NW95eGhmZ2V1bzNpMGd6b2RqbW13cTQ4dXdocDd0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.webp" width="100"/> Hello, I’m Luis Gerardo 👋
+Hello, I’m Luis Gerardo 👋
 
 ## **Computer Systems Engineer | Software Developer | Data & Automation Enthusiast**
 
@@ -47,10 +46,10 @@ My goal is to continue building scalable and efficient systems that enhance prod
 
 ## 🚀 Projects
 
-- **EOL Failure Analysis System (Bosch)**  
+- **EOL Failure Analysis System for Robert Bosch**  
   Developed a full-stack traceability web app for analyzing scrap and failures in EOL test benches, reducing failure identification time by 30%.  
 
-- **Smart Inventory Control with Flask**  
+- **Smart Inventory Control with Flask for Robert Bosch**  
   Automated spare parts tracking and real-time usage registration in a manufacturing line environment.  
 
 - **Data Analysis for Supplier Complaint (2024)**  
@@ -60,12 +59,6 @@ My goal is to continue building scalable and efficient systems that enhance prod
 
 - **Digital Infrastructure for AMRON Group**  
   Configured and deployed a Linux-based NAS and managed enterprise databases using Oracle and MySQL.
-
----
-
-## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGabu7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 ---
 
@@ -92,9 +85,3 @@ My goal is to continue building scalable and efficient systems that enhance prod
 
 ✨ *"Software is not just code. It's the bridge between data and transformation."*
 """
-
-# Guardar archivo README.md
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("✅ README.md successfully generated.")
