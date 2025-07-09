@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-Hi! I’m **Luis Gerardo García Bustamante**, a passionate Software Engineer based in Toluca, Mexico 🇲🇽.  
+Hi! I’m **Gerardo**, a passionate Software Engineer based in Toluca, Mexico 🇲🇽.  
 I specialize in software development, data analysis, and industrial automation. Currently, I’m doing my professional internship at **Robert Bosch** working on high-impact solutions using **Python, Django, Flask**, and **Power BI** for EOL traceability and failure diagnostics.  
 
 **My goal** is to continue building scalable and efficient systems that enhance productivity and decision-making in real-world environments.
